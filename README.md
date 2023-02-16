@@ -7,7 +7,7 @@ Frontend Developer | Web Developer
 I have been learning to code for 1 year. I do love to use ReactJs,NextJs, TailwindCss and make the website look alive by Framer Motion
 
 * 🌍  I'm based in Bangkok , Thailand
-* 🖥️  See my portfolio at [Landing Page - Metaverse Theme](http://https://lucky-brioche-bca636.netlify.app)
+* 🖥️  See my portfolio at [Landing Page - Metaverse Theme](http://lucky-brioche-bca636.netlify.app)
 * ✉️  You can contact me at [Orc\_hero@hotmail.com](mailto:Orc_hero@hotmail.com)
 * 🧠  I'm learning Back-End Technology ( NodeJs )
 * ⚡  I do love to do the Job for free - Let Talk!!!!!!
